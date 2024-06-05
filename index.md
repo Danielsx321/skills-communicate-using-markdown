@@ -17,3 +17,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 ###### Code block using javascript
+- [x] Understood how to add Headings
+- [X] Understood how to add headings to Image
+- [ ] Yet to understand how to code for real
